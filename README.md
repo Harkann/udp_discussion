@@ -17,7 +17,6 @@ L3/M1 network course ENS Paris-Saclay, peer-to-peer communication in UDP
 ## TODO
   * Graphical interface
   * Inondation
-  * Sending Data
   * Receiving Ack
   * Support IPv4
   * Proper configuration file
